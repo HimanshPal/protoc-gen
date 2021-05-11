@@ -1,4 +1,4 @@
-name: Publish protoc-gen docker image
+name: Publish docker image
 on:
   push:
     tags:
